@@ -1,0 +1,17 @@
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\bin\Debug\net6.0-windows\Tugas3-2.exe
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\bin\Debug\net6.0-windows\Tugas3-2.deps.json
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\bin\Debug\net6.0-windows\Tugas3-2.runtimeconfig.json
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\bin\Debug\net6.0-windows\Tugas3-2.dll
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\bin\Debug\net6.0-windows\Tugas3-2.pdb
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.csproj.AssemblyReference.cache
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3_2.Form1.resources
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.csproj.GenerateResource.cache
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.AssemblyInfoInputs.cache
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.AssemblyInfo.cs
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.csproj.CoreCompileInputs.cache
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.dll
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\refint\Tugas3-2.dll
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.pdb
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\Tugas3-2.genruntimeconfig.cache
+E:\Pemro-lanjut\Prak3\Tugas3-2\Tugas3-2\obj\Debug\net6.0-windows\ref\Tugas3-2.dll
